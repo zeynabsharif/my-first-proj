@@ -237,3 +237,12 @@ footer {
     }
 }
 }
+
+*/ For medium screen sizes from 950px wide and down */
+#menu {
+    clear: left;
+    float: left;
+    margin-left:30px;
+    margin-bottom: 20%;
+    line-height: 25px;
+}
