@@ -181,3 +181,21 @@ right-about-heading p {
     border-radius: 50%;
     background-size: cover;
 }
+
+footer {
+    height: 150px;
+}
+
+.social-network {
+    text-align: center;
+}
+
+.social-network > li {
+    display: inline;
+}
+.social-network {
+    font-size: 160%;
+    margin: 1%;
+    padding: 5%;
+    color: #3a3a3a;
+}
