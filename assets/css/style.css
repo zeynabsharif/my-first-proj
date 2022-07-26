@@ -182,8 +182,11 @@ right-about-heading p {
     background-size: cover;
 }
 
+/*footer */
+
 footer {
-    height: 150px;
+    height: 15px;
+    width: 100%;
 }
 
 .social-network {
@@ -193,7 +196,7 @@ footer {
 .social-network > li {
     display: inline;
 }
-.social-network {
+.social-network i  {
     font-size: 160%;
     margin: 1%;
     padding: 5%;
