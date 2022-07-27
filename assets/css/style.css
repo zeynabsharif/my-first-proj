@@ -279,8 +279,11 @@ text-align: center;
     width: 100%;
     padding:0  20px;
     }
+
 #photos {
     column-count: 3;
+
+}
 }
     @media screen and (max-width: 800px) {
         #photos {
@@ -289,3 +292,13 @@ text-align: center;
         }
         
     }
+    //*classess gallary */
+    
+    #photos {
+    column-count: 3;
+    column-gap: 0;
+    line-height: 0;
+    clear: both;
+}
+#photos >img{
+    width: 100%;
