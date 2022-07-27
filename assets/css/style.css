@@ -224,7 +224,16 @@ footer {
     height: 1200px;
     margin: 0 auto;
 
-
+/*classess gallary */
+    
+    #photos {
+    column-count: 3;
+    column-gap: 0;
+    line-height: 0;
+    clear: both;
+}
+#photos >img{
+    width: 100%;
 }
 
 #welcome {
@@ -292,7 +301,7 @@ text-align: center;
         }
         
     }
-    //*classess gallary */
+    /*classess gallary */
     
     #photos {
     column-count: 3;
